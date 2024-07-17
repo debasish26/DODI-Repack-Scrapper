@@ -13,7 +13,7 @@ This project is a web scraper that extracts game titles and torrent download lin
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/debasish26/DODI-Repack-Scraper.git
+    git clone https://github.com/debasish26/DODI-Repack-Scrapper
     cd DODI-Repack-Scrapper
     ```
 
